@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "2ef00f70dc4c9512",
+    "type": "split",
+    "children": [
+      {
+        "id": "284f8430cb9c04c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8488b675d1f2b6e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Startup Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Startup Ideas"
+            }
+          },
+          {
+            "id": "4db545b95ae5171d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. ClipCart - AI Shopping Assistant for Social Media.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20. ClipCart - AI Shopping Assistant for Social Media"
+            }
+          },
+          {
+            "id": "edd9ac7e62cf5a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. ClipCart - AI Shopping Assistant for Social Media.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20. ClipCart - AI Shopping Assistant for Social Media"
+            }
+          },
+          {
+            "id": "27a99625ff427262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Youtube Automation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Youtube Automation"
+            }
+          },
+          {
+            "id": "e9239ddbac668437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personalized home workout plans – Create an app that generates personalized fitness routines based on user goals, preferences, and available equipment..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personalized home workout plans – Create an app that generates personalized fitness routines based on user goals, preferences, and available equipment."
+            }
+          },
+          {
+            "id": "1136a7a6402d71e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SaaS for managing subscription services – Build software that helps users track and manage all their subscription services from one platform..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SaaS for managing subscription services – Build software that helps users track and manage all their subscription services from one platform."
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "df7d25d576f59ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5df550e89c25d53d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5301072609afa5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca2a6b661d5e04f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f08917e24818dab3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "32fea49db5304704",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e4bac2028a43016c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a89f4fa6f35cd7dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c84719e02a196aee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "890b9ff93bff3e36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20. ClipCart - AI Shopping Assistant for Social Media.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20. ClipCart - AI Shopping Assistant for Social Media"
+            }
+          },
+          {
+            "id": "10251662c6402c68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20. ClipCart - AI Shopping Assistant for Social Media.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 20. ClipCart - AI Shopping Assistant for Social Media"
+            }
+          },
+          {
+            "id": "0b8aa6c0fde5df8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "540eaee407bbdec1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20. ClipCart - AI Shopping Assistant for Social Media.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 20. ClipCart - AI Shopping Assistant for Social Media"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "edd9ac7e62cf5a28",
+  "lastOpenFiles": [
+    "20. ClipCard - Important Notes.md",
+    "Pasted image 20250328004455.png",
+    "20. ClipCart - AI Shopping Assistant for Social Media.md",
+    "Startup Ideas.md",
+    "Youtube Automation.md",
+    "SaaS for managing subscription services – Build software that helps users track and manage all their subscription services from one platform..md",
+    "Personalized home workout plans – Create an app that generates personalized fitness routines based on user goals, preferences, and available equipment..md",
+    "Create a UI/ UX agency (Product Design).md",
+    "ITSP(IT service provider) & MSP(Managed service provider).md",
+    "Create a UI"
+  ]
+}

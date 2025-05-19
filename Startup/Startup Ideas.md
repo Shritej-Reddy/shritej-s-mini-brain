@@ -1,0 +1,20 @@
+1. [[Create a UI/ UX agency (Product Design)]]
+2. [[ITSP(IT service provider) & MSP(Managed service provider)]]
+3. SaaS
+4. Something along the lines of architecture products. Useful for architects
+5. Create useful plugins
+6. [[Personalized home workout plans – Create an app that generates personalized fitness routines based on user goals, preferences, and available equipment.]]
+7. [[SaaS for managing subscription services – Build software that helps users track and manage all their subscription services from one platform.]]
+8. [[Real estate investment crowdfunding – A platform where people can invest small amounts in real estate projects collectively.]]
+9. [[Niche travel experiences platform – An online marketplace for unique and niche travel experiences, such as eco-tourism, adventure travel, or culinary tours.]]
+10. [[SaaS for workplace safety management – A software solution to help businesses manage and track workplace safety compliance and incidents.]]
+11. [[Personalized book recommendations – An app that recommends books based on user preferences, past reading habits, and current trends.]]
+12. [[Subscription service for organic snacks – Deliver organic, healthy snacks to subscribers each month, catering to the growing demand for healthy eating.]]
+13. [[B2B sustainability reporting platform – Develop software that helps businesses track and report their sustainability metrics for regulatory compliance and transparency.]]
+14. [[AI-powered smart inventory management – A system for small businesses that uses AI to predict stock levels and automate reordering based on demand.]]
+15. [[Custom T-shirt design platform – A B2C platform where users can design and order custom T-shirts for personal or corporate use.]]
+16. [[Virtual interior design services – Offer a platform where users can get personalized interior design advice and mockups from professionals online.]]
+17. [[Custom 3D-printed furniture – A service that allows customers to design and order custom 3D-printed furniture for their homes or offices.]]
+18. [[VR real estate tours – A platform for real estate agents and potential homebuyers to conduct virtual tours of properties using VR technology.]]
+19. [[Youtube Automation]]
+20. [[20. ClipCart - AI Shopping Assistant for Social Media]]
